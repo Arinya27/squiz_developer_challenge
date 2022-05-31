@@ -1,0 +1,66 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 1ch;
+
+  .Header {
+    box-shadow: 0 2px 4px 2px #33333333;
+    padding: 1ch;
+  }
+
+  .dashboard {
+    display: flex;
+    padding: 1ch;
+  }
+
+  .options {
+    padding: 1ch;
+  }
+
+  .records {
+    display: flex;
+    flex-direction: column;
+    gap: 1ch;
+    padding: 1ch;
+  }
+
+  .Company {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid hsl(181, 91%, 26%);
+    border-radius: 2px;
+    box-shadow: 0 0 4px 2px #33333333;
+    padding: 3%;
+    .Info {
+      display: flex;
+      
+      label {
+        flex-basis: 9ch;
+        flex-shrink: 0;
+        font-weight:bold;
+      }
+      span {
+
+          padding-left: 0.5ch;
+        
+      }
+    }
+    
+  }
+
+}
+.FormItem{
+  margin-bottom:10px;
+}
+.FormItem label{
+  margin-right:5px;
+}
+.FormItem  input, .FormItem  select{
+  border: 1px solid hsl(181, 91%, 26%);
+  border-radius: 2px;
+}
+@media (max-width: 768px) {
+  .dashboard{
+    flex-direction: column;
+  }
+}
