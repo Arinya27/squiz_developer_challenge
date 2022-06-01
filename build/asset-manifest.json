@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/squiz_developer_challenge/static/css/main.89686673.css",
+    "main.css": "/squiz_developer_challenge/static/css/main.371c1d6b.css",
     "main.js": "/squiz_developer_challenge/static/js/main.5e92f11f.js",
     "static/js/787.bc52cd13.chunk.js": "/squiz_developer_challenge/static/js/787.bc52cd13.chunk.js",
     "index.html": "/squiz_developer_challenge/index.html",
-    "main.89686673.css.map": "/squiz_developer_challenge/static/css/main.89686673.css.map",
+    "main.371c1d6b.css.map": "/squiz_developer_challenge/static/css/main.371c1d6b.css.map",
     "main.5e92f11f.js.map": "/squiz_developer_challenge/static/js/main.5e92f11f.js.map",
     "787.bc52cd13.chunk.js.map": "/squiz_developer_challenge/static/js/787.bc52cd13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89686673.css",
+    "static/css/main.371c1d6b.css",
     "static/js/main.5e92f11f.js"
   ]
 }
