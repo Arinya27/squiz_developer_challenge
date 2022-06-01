@@ -2,10 +2,12 @@
   display: flex;
   flex-direction: column;
   gap: 1ch;
+  background:#f05a3e;
 
   .Header {
     box-shadow: 0 2px 4px 2px #33333333;
     padding: 1ch;
+    background: mintcream;
   }
 
   .dashboard {
@@ -31,6 +33,7 @@
     border-radius: 2px;
     box-shadow: 0 0 4px 2px #33333333;
     padding: 3%;
+    background: mintcream;
     .Info {
       display: flex;
       
